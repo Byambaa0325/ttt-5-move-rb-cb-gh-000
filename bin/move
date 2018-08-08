@@ -17,4 +17,4 @@ Now, run your program by typing `ruby bin/move` in the terminal. Have fun playin
 # Code your CLI Here
 puts("Welcome to Tic Tac Toe!")
 
-board= array.
+board= array.NEw
